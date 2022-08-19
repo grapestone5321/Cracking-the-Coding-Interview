@@ -21,197 +21,199 @@ HackerRank
 
 
 
-2
+### 2
 
 11:49
-NOW PLAYING
-Algorithms: Graph Search, DFS and BFS
-HackerRank
 
-3
+Algorithms: Graph Search, DFS and BFS
+
+
+### 3
 
 5:41
-NOW PLAYING
-Algorithms: Recursion
-HackerRank
 
-4
+Algorithms: Recursion
+
+
+### 4
 
 11:17
-NOW PLAYING
-Algorithms: Memoization and Dynamic Programming
-HackerRank
 
-5
+Algorithms: Memoization and Dynamic Programming
+
+
+### 5
 
 9:06
-NOW PLAYING
-Algorithms: Bit Manipulation
-HackerRank
 
-6
+Algorithms: Bit Manipulation
+
+
+### 6
 
 6:22
-NOW PLAYING
-Algorithms: Binary Search
-HackerRank
 
-7
+Algorithms: Binary Search
+
+
+### 7
 
 6:25
-NOW PLAYING
-Data Structures: Hash Tables
-HackerRank
 
-8
+Data Structures: Hash Tables
+
+
+### 8
 
 10:32
-NOW PLAYING
-Data Structures: Heaps
-HackerRank
 
-9
+Data Structures: Heaps
+
+
+### 9
 
 7:43
-NOW PLAYING
-Data Structures: Linked Lists
-HackerRank
 
-10
+Data Structures: Linked Lists
+
+
+### 10
 
 5:46
-NOW PLAYING
-Data Structures: Stacks and Queues
-HackerRank
 
-11
+Data Structures: Stacks and Queues
+
+
+### 11
 
 9:57
-NOW PLAYING
-Data Structures: Trees
-HackerRank
 
-12
+Data Structures: Trees
+
+
+### 12
 
 4:55
-NOW PLAYING
-Data Structures: Tries
-HackerRank
 
-13
+Data Structures: Tries
+
+
+### 13
 
 4:35
-NOW PLAYING
-Algorithms: Bubble Sort
-HackerRank
 
-14
+Algorithms: Bubble Sort
+
+
+### 14
 
 9:53
-NOW PLAYING
-Algorithms: Merge Sort
-HackerRank
 
-15
+Algorithms: Merge Sort
+
+
+### 15
 
 8:54
-NOW PLAYING
-Algorithms: Quicksort
-HackerRank
 
-16
+Algorithms: Quicksort
+
+
+### 16
 
 3:22
-NOW PLAYING
-Algorithms: Solve 'Lonley Integer' Using Bit Manipulation
-HackerRank
 
-17
+Algorithms: Solve 'Lonley Integer' Using Bit Manipulation
+
+
+### 17
 
 8:45
-NOW PLAYING
-Algorithms: Solve 'Coin Change' Using Memoization and DP
-HackerRank
 
-18
+Algorithms: Solve 'Coin Change' Using Memoization and DP
+
+
+### 18
 
 3:48
-NOW PLAYING
-Algorithms: Sort An Array with Comparator
-HackerRank
 
-19
+Algorithms: Sort An Array with Comparator
+
+
+### 19
 
 4:43
-NOW PLAYING
-Algorithms: Solve 'Shortest Reach' Using BFS
-HackerRank
 
-20
+Algorithms: Solve 'Shortest Reach' Using BFS
+
+
+### 20
 
 7:12
-NOW PLAYING
-Algorithms: Solve 'Connected Cells' Using DFS
-HackerRank
 
-21
+Algorithms: Solve 'Connected Cells' Using DFS
+
+
+### 21
 
 9:29
-NOW PLAYING
-Algorithms: Solve 'Ice Cream Parlor' Using Binary Search
-HackerRank
 
-22
+Algorithms: Solve 'Ice Cream Parlor' Using Binary Search
+
+
+### 22
 
 9:27
-NOW PLAYING
-Algorithms: Solve 'Recursive Staircase' Using Recursion
-HackerRank
 
-23
+Algorithms: Solve 'Recursive Staircase' Using Recursion
+
+
+### 23
 
 6:41
-NOW PLAYING
-Data Structures: Anagram Problem Solution
-HackerRank
 
-24
+Data Structures: Anagram Problem Solution
+
+
+### 24
 
 9:53
-NOW PLAYING
-Data Structures: Solve 'Find the Running Median' Using Heaps
-HackerRank
 
-25
+Data Structures: Solve 'Find the Running Median' Using Heaps
+
+
+### 25
 
 8:54
-NOW PLAYING
-Data Structures: Solve 'Contacts' Using Tries
-HackerRank
 
-26
+Data Structures: Solve 'Contacts' Using Tries
+
+
+### 26
 
 6:31
-NOW PLAYING
-Data Structures: Binary Search Tree
-HackerRank
 
-27
+Data Structures: Binary Search Tree
+
+
+### 27
 
 7:12
-NOW PLAYING
-Data Structures: Queue With Two Stacks
-HackerRank
 
-28
+Data Structures: Queue With Two Stacks
+
+
+### 28
 
 5:19
-NOW PLAYING
+
 Data Structures: Cycles in a Linked List
-HackerRank
 
-29
 
-NOW PLAYING
+
+
+### 29
+
+8:00
+
 Data Structures: Balanced Parentheses in Expression
-HackerRank
