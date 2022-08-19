@@ -222,3 +222,21 @@ Learn how to check if a sequence of different types of brackets (or parentheses)
 
 -----
 
+## Cracking The Coding Interview with Gayle Laakmann McDowell
+
+https://www.youtube.com/watch?v=wXPGxOcna-A
+
+Kendell Haynes
+
+------
+
+## Gayle L McDowell - Cracking The Coding Interview
+
+Mar 19, 2012
+
+https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+
+----
+
+
+
