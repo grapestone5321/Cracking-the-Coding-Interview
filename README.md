@@ -21,199 +21,201 @@ HackerRank
 
 
 
-### 2
+### 2 Algorithms: Graph Search, DFS and BFS
 
 11:49
 
-Algorithms: Graph Search, DFS and BFS
 
 
-### 3
+
+### 3 Algorithms: Recursion
 
 5:41
 
-Algorithms: Recursion
 
 
-### 4
+
+### 4 Algorithms: Memoization and Dynamic Programming
 
 11:17
 
-Algorithms: Memoization and Dynamic Programming
 
 
-### 5
+
+### 5 Algorithms: Bit Manipulation
 
 9:06
 
-Algorithms: Bit Manipulation
 
 
-### 6
+
+### 6 Algorithms: Binary Search
 
 6:22
 
-Algorithms: Binary Search
 
 
-### 7
+
+### 7 Data Structures: Hash Tables
 
 6:25
 
-Data Structures: Hash Tables
 
 
-### 8
+
+### 8 Data Structures: Heaps
 
 10:32
 
-Data Structures: Heaps
 
 
-### 9
+
+### 9 Data Structures: Linked Lists
 
 7:43
 
-Data Structures: Linked Lists
 
 
-### 10
+
+### 10 Data Structures: Stacks and Queues
 
 5:46
 
-Data Structures: Stacks and Queues
 
 
-### 11
+
+### 11 Data Structures: Trees
+
 
 9:57
 
-Data Structures: Trees
 
 
-### 12
+### 12 Data Structures: Tries
 
 4:55
 
-Data Structures: Tries
 
 
-### 13
+
+### 13 Algorithms: Bubble Sort
 
 4:35
 
-Algorithms: Bubble Sort
 
 
-### 14
+
+### 14 Algorithms: Merge Sort
 
 9:53
 
-Algorithms: Merge Sort
 
 
-### 15
+
+### 15 Algorithms: Quicksort
 
 8:54
 
-Algorithms: Quicksort
 
 
-### 16
+
+### 16 Algorithms: Solve 'Lonley Integer' Using Bit Manipulation
 
 3:22
 
-Algorithms: Solve 'Lonley Integer' Using Bit Manipulation
 
 
-### 17
+
+### 17 Algorithms: Solve 'Coin Change' Using Memoization and DP
 
 8:45
 
-Algorithms: Solve 'Coin Change' Using Memoization and DP
 
 
-### 18
+
+### 18 Algorithms: Sort An Array with Comparator
+
 
 3:48
 
-Algorithms: Sort An Array with Comparator
 
 
-### 19
+### 19 Algorithms: Solve 'Shortest Reach' Using BFS
 
 4:43
 
-Algorithms: Solve 'Shortest Reach' Using BFS
 
 
-### 20
+
+### 20 Algorithms: Solve 'Connected Cells' Using DFS
 
 7:12
 
-Algorithms: Solve 'Connected Cells' Using DFS
 
 
-### 21
+
+### 21 Algorithms: Solve 'Ice Cream Parlor' Using Binary Search
 
 9:29
 
-Algorithms: Solve 'Ice Cream Parlor' Using Binary Search
 
 
-### 22
+
+### 22 Algorithms: Solve 'Recursive Staircase' Using Recursion
 
 9:27
 
-Algorithms: Solve 'Recursive Staircase' Using Recursion
 
 
-### 23
+
+### 23 Data Structures: Anagram Problem Solution
 
 6:41
 
-Data Structures: Anagram Problem Solution
 
 
-### 24
+
+### 24 Data Structures: Solve 'Find the Running Median' Using Heaps
 
 9:53
 
-Data Structures: Solve 'Find the Running Median' Using Heaps
 
 
-### 25
+
+### 25 Data Structures: Solve 'Contacts' Using Tries
 
 8:54
 
-Data Structures: Solve 'Contacts' Using Tries
 
 
-### 26
+
+### 26 Data Structures: Binary Search Tree
 
 6:31
 
-Data Structures: Binary Search Tree
 
 
-### 27
+
+### 27 Data Structures: Queue With Two Stacks
 
 7:12
 
-Data Structures: Queue With Two Stacks
 
 
-### 28
+
+### 28 Data Structures: Cycles in a Linked List
 
 5:19
 
-Data Structures: Cycles in a Linked List
 
 
 
 
-### 29
+
+### 29 Data Structures: Balanced Parentheses in Expression
+
 
 8:00
 
-Data Structures: Balanced Parentheses in Expression
+-----
+
