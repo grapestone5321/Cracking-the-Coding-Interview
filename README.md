@@ -224,6 +224,8 @@ Learn how to check if a sequence of different types of brackets (or parentheses)
 
 ## Cracking The Coding Interview with Gayle Laakmann McDowell
 
+Mar 12, 2017
+
 https://www.youtube.com/watch?v=wXPGxOcna-A
 
 Kendell Haynes
