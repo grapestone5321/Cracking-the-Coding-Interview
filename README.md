@@ -14,11 +14,11 @@ https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt
 
 HackerRank
 
-- 1
+### 1 Big O Notation
 
 8:37
 
-Big O Notation
+
 
 
 2
