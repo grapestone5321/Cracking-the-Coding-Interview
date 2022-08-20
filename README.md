@@ -17,6 +17,19 @@ Learn how to uncover the hints and hidden details in a question, discover how to
 
 These interview questions are real; they are not pulled out of computer science textbooks. They reflect what's truly being asked at the top companies, so that you can be as prepared as possible.
 
+
+## What's Inside?
+
+- 189 programming interview questions, ranging from the basics to the trickiest algorithm problems.
+- A walk-through of how to derive each solution, so that you can learn how to get there yourself.
+- Hints on how to solve each of the 189 questions, just like what you would get in a real interview.
+- Five proven strategies to tackle algorithm questions, so that you can solve questions you haven't seen.
+- Extensive coverage of essential topics, such as big O time, data structures, and core algorithms.
+- A behind the scenes look at how top companies like Google and Facebook hire developers.
+- Techniques to prepare for and ace the soft side of the interview: behavioral questions.
+- For interviewers and companies: details on what makes a good interview question and hiring process.
+
+
 ## Solutions
 
 ### Download Solutions
