@@ -29,6 +29,9 @@ These interview questions are real; they are not pulled out of computer science 
 - Techniques to prepare for and ace the soft side of the interview: behavioral questions.
 - For interviewers and companies: details on what makes a good interview question and hiring process.
 
+## Authored by Gayle Laakmann McDowell
+
+Gayle is the Founder / CEO of CareerCup.com and the author of two books: Cracking the Coding Interview, Amazon.com's #1 best-selling interview book, and The Google Resume. She has worked for Google, Microsoft, and Apple and served on Google's hiring committee. She holds a BSE and MSE in Computer Science from the University of Pennsylvania and an MBA from the Wharton School.
 
 ## Solutions
 
