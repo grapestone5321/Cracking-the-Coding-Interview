@@ -1,5 +1,6 @@
 # Cracking-the-Coding-Interview
-Cracking-the-Coding-Interview
+
+Gayle Laakmann McDowell
 
 -----
 
