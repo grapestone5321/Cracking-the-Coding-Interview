@@ -418,6 +418,38 @@ Dice.com recently interviewed Gayle Laakmann McDowell, author of Cracking the Co
 
 -----
 
+## Tips to Crack the Coding Interview with Gayle Laakmann McDowell (2012)
+
+Oct 23, 2012
+
+https://www.youtube.com/watch?v=BN0B4mOtwX0
+
+Dice
+
+Surviving a coding interview was top of mind of the more than 2500+ developers that attended the 2012 Silicon Valley Code Camp conference at Foothill College in Los Altos, California.
+
+It was such a prevalent topic that Gayle Laakmann McDowell's session, "Cracking the Coding Interview," also the title of her book, was the most popular session at the conference. McDowell is also the author of The Google Resume, and founder of CareerCup, a website that hosts more than 8,000 interview questions for software engineers.
+
+Be prepared to write on a whiteboard:
+McDowell's first piece of advice for a coding interview is be ready to write out your code by hand. You won't have a compiler in front of you, so practice writing and debugging on paper. She invites developers to look at the questions on her site, CareerCup. 
+Make sure you get all your semicolons in place as pseudo-code won't fly, said McDowell.
+
+Coding interview algorithms:
+McDowell recommends these mental tricks to help you work through questions for which you don't readily know the answer.
+
+Pattern matching: Think about what interview questions are similar to the one you can't solve. Approach the solution to the problem with the version you do know. 
+
+Simplify and generalize: If the problem is too complex for you to wrap your head around, simplify it or tweak some of the constraints so you can at least solve a simplified version of the problem. Then generalize to the regular problem that you see.
+
+Base case and build: Solve the problem for the n=0 and n=1 case and see if you can use solutions from prior problems to solve for n=2 and n=3, and then build up from there.
+
+How to really blow a coding interview:
+When I was in college I admitted to really blowing a coding interview. Honestly, I just froze, mostly because I didn't know the answer right off the top of my head. McDowell said this is one of the grand misconceptions of the coding interview. Developers think that they can just hear a problem and then belt out the right answer. That's not how it works. The interviewer really wants to know how you think about the problem and how are you going to approach it. So be calm and don't get flustered. Don't expect you need to know the right answer. It can take the absolute best candidates 30 minutes or longer to work through a coding interview, said McDowell.
+
+Dice.com celebrates everything that makes a career in technology great.  Dice connects tech talent with the companies who are looking to hire. Dice, the Career Hub for tech, is the leading job site for technology professionals.  Dice.com has thousands of tech jobs, tech news and career advice and a community of tech professionals.
+
+-----
+
 ## Creating a Better Interview | Gayle Laakmann McDowell | HR.main() Palo Alto
 
 May 25, 2019
