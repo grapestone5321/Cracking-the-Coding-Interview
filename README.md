@@ -403,5 +403,16 @@ Henry Villca
 
 ----
 
+## Cracking the Coding Interview with Author Gayle Laakmann McDowell (2012)
+
+sOct 2, 2012
+
+https://www.youtube.com/watch?v=aClxtDcdpsQ
+
+Software engineers typically face a double whammy when  it comes to the interview process, they  not only have to ace the interview with a company's hiring manager and team members but also score well on coding tests. 
+
+Dice.com recently interviewed Gayle Laakmann McDowell, author of Cracking the Coding Interview, who gave a white board demonstration.
+
+-----
 
 
