@@ -405,9 +405,12 @@ Henry Villca
 
 ## Cracking the Coding Interview with Author Gayle Laakmann McDowell (2012)
 
-sOct 2, 2012
+Oct 2, 2012
 
 https://www.youtube.com/watch?v=aClxtDcdpsQ
+
+Dice
+
 
 Software engineers typically face a double whammy when  it comes to the interview process, they  not only have to ace the interview with a company's hiring manager and team members but also score well on coding tests. 
 
@@ -415,4 +418,18 @@ Dice.com recently interviewed Gayle Laakmann McDowell, author of Cracking the Co
 
 -----
 
+## Creating a Better Interview | Gayle Laakmann McDowell | HR.main() Palo Alto
+
+May 25, 2019
+
+https://www.youtube.com/watch?v=QOPdTWS3tZw&t=10s
+
+HackerRank
+
+A fireside chat between HackerRank CEO & CoFounder, Vivek Ravisankar and Gayle Laakmann McDowell, author of bestselling book “Cracking the Coding Interview.” 
+
+As one of the foremost experts on technical interviews, we got Gayle's take on what makes the perfect interview: what teams are doing right, and the opportunities they’re missing when evaluating technical candidates.
+
+
+-----
 
