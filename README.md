@@ -465,3 +465,18 @@ As one of the foremost experts on technical interviews, we got Gayle's take on w
 
 -----
 
+## Gayle Laakmann McDowell Deconstructs the Engineering Interview Process
+
+Oct 11, 2018
+
+https://www.youtube.com/watch?v=KdXAUst8bdo&list=RDCMUCOf7UPMHBjAavgD0Qw5q5ww&start_radio=1&rv=KdXAUst8bdo&t=1118
+
+HackerRank
+
+This is the third episode of HackerRank Radio, our podcast for engineering leaders interested in solving developers’ toughest problems today: Hiring the right developers. Hosted by Vivek Ravisankar (CEO & Cofounder, HackerRank). You can subscribe to us on iTunes and Google Play. 
+
+-----
+
+Cracking the Coding Interview at Silicon Valley Code Camp 2016
+
+
