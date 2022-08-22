@@ -44,6 +44,12 @@ Gayle is the Founder / CEO of CareerCup.com and the author of two books: Crackin
 
 -----
 
+## CareerCup
+
+https://www.careercup.com/resources
+
+-----
+
 # Contents
 
 Now in the 6th edition, Cracking the Coding Interview gives you the interview preparation you need to get the top software developer jobs. This is a deeply technical book and focuses on the software engineering skills to ace your interview. The book is over 700 pages and includes 189 programming interview questions and answers, as well as other advice. 
