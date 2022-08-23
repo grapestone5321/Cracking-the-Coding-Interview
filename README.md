@@ -570,7 +570,26 @@ She is an interview consultant, helping companies improve their interview proces
 Gayle has worked as a Software Engineer for Google, Microsoft and Apple. She holds a BSE and MSE from UPenn in Computer Science, and an MBA from the Wharton School.
 
 
+-----
 
+-----
+
+# Gaurav Sen
+
+https://www.youtube.com/c/GauravSensei
+
+-----
+
+# Clément Mihailescu
+
+https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
+
+-----
+
+
+# Fullstack Academy
+
+https://www.youtube.com/c/FullstackAcademyOfCode
 
 -----
 
