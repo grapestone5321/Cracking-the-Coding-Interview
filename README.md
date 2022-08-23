@@ -497,7 +497,79 @@ This is not a fluffy be-your-best talk; it is deeply technical and will discuss 
 
 -----
 
-Cracking the Coding Interview at Silicon Valley Code Camp 2016
+## Cracking the Coding Interview at Silicon Valley Code Camp 2018
+
+Oct 19, 2018
+
+https://www.youtube.com/watch?v=8T7a09V1KZo
+
+Silicon Valley Code Camp
+
+Gayle Laakmann McDowell Talks about 'Cracking the Coding Interview' at https://SiliconValley-CodeCamp.com in San Jose Hosted by PayPal
+
+Gayle ran out of books to sell but you can still pick one up on Amazon.  Here is a link:  https://amzn.to/2q1zutH
+
+Programmer & best-selling author of Cracking the Coding Interview presents a technical talk on how coding interviews work and how to do well on them. This will be a deeply technical talk covering data structures and algorithms.
+
+Session Details:
+https://SiliconValley-CodeCamp.com/Se...
+Session Materials:
+http://go.gayle.com/codingprep
+
+
+Silicon Valley Code Camp site:
+https://SiliconValley-CodeCamp.com
+
+Subscribe to the Silicon Valley Code Camp Youtube Channel
+https://www.youtube.com/c/SiliconVall...
+
+Follow Silicon Valley Code Camp on Twitter: https://twitter.com/sv_code_camp
+Join the Silicon Valley Code Camp G+ community: https://plus.google.com/1106563518427...
+Cracking the Coding Interview at Silicon Valley Code Camp 2018 
+
+
+
+Follow Gayle Laakmann McDowell on Twitter: https://twitter.com/gayle
+
+Speaker Biography for Gayle Laakmann McDowell
+
+Cracking the Coding Interview at Silicon Valley Code Camp 2018 
+
+Gayle Laakmann McDowell Talks about 'Cracking the Coding Interview' at https://SiliconValley-CodeCamp.com in San Jose Hosted by PayPal
+
+Programmer & best-selling author of Cracking the Coding Interview presents a technical talk on how coding interviews work and how to do well on them. This will be a deeply technical talk covering data structures and algorithms.
+
+Session Details:
+https://SiliconValley-CodeCamp.com/Se...
+Session Materials:
+http://go.gayle.com/codingprep
+
+
+Silicon Valley Code Camp site:
+https://SiliconValley-CodeCamp.com
+
+Subscribe to the Silicon Valley Code Camp Youtube Channel
+https://www.youtube.com/c/SiliconVall...
+
+Follow Silicon Valley Code Camp on Twitter: https://twitter.com/sv_code_camp
+Join the Silicon Valley Code Camp G+ community: https://plus.google.com/1106563518427...
+Cracking the Coding Interview at Silicon Valley Code Camp 2018 
+
+
+
+Follow Gayle Laakmann McDowell on Twitter: https://twitter.com/gayle
+
+Speaker Biography for Gayle Laakmann McDowell
+
+Gayle Laakmann McDowell is the founder and CEO of CareerCup.com and the author of three books:
+
+Cracking the Coding Interview (Amazon.com's #1 best-selling interview book)
+Cracking the PM Interview (product manager)
+Cracking the Tech Career
+She is an interview consultant, helping companies improve their interview process and coaching startups through acquisitions/acqui-hires. She is also an interview prep instructor, hired by Facebook to teach an interview prep class for external software developer candidates.
+Gayle has worked as a Software Engineer for Google, Microsoft and Apple. She holds a BSE and MSE from UPenn in Computer Science, and an MBA from the Wharton School.
+
+
 
 
 -----
