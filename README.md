@@ -483,6 +483,22 @@ This is the third episode of HackerRank Radio, our podcast for engineering leade
 
 -----
 
+## Cracking the Code Interview
+
+Oct 9, 2015
+
+https://www.youtube.com/watch?v=4NIb9l3imAo
+
+CS interviews are a different breed from other interviews and, as such, require specialized skills and techniques. 
+
+This talk will teach you how to prepare for coding interviews, what top companies like Google, Amazon, and Microsoft really look for, and how to tackle the toughest programming and algorithm problems. 
+
+This is not a fluffy be-your-best talk; it is deeply technical and will discuss specific algorithm and data structure topics.
+
+-----
+
 Cracking the Coding Interview at Silicon Valley Code Camp 2016
 
+
+-----
 
