@@ -48,6 +48,10 @@ Gayle is the Founder / CEO of CareerCup.com and the author of two books: Crackin
 
 https://www.careercup.com/resources
 
+### This Is What A GOOD Resume Should Look Like:
+
+https://www.careercup.com/resume
+
 -----
 
 # Contents
