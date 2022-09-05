@@ -52,6 +52,25 @@ https://www.careercup.com/resources
 
 https://www.careercup.com/resume
 
+### Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company
+
+Hiring bonuses, onsite pools, cocktails, flexible hours ... meaningful work! This is the stuff of recent graduates' dreams—and the shimmering lure dangling at Google, Apple, Microsoft, and other top tech firms. Scoring those coveted positions requires brains, drive, a minimum of luck, and an abundance of smart moves. The Google Résumé is the only book that delivers the critical know-how to get you through the door, in the job, and up the first rungs of the tech ladder.
+
+Former Microsoftie, Appleite, and Googler Gayle Laakmann McDowell is the mentor you need. Get crucial advice on choosing a major, minor, internship, and part-time job that will make you a superior candidate. Identify your weaknesses, and start developing a track record of achievement now.
+
+The hiring processes and requirements of the tech industry are unique—and the competition, stiff. No matter your tech savvy, there are infinite ways to improve your chances of landing your dream job, from picking relevant extracurricular activities to striking the right tone during an interview.
+
+Filled with answers to real job-seekers' questions, a list of 156 résumé action words, and examples of choice answers to tough interview questions, The Google Résumé also teaches you how to:
+
+Develop a specialized skill while you're in school
+Land an interview
+Create a great first impression
+Navigate the hiring procedures for programmers, designers, and game developers
+Negotiate an offer
+
+There are a lot of smart people in the world, and anyone can catch a little dumb luck. But if you want to stand out among the roiling mass of tech strivers, you have to do everything right. Here's how.
+
+
 -----
 
 # Contents
