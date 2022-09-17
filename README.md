@@ -629,3 +629,13 @@ https://www.youtube.com/c/TiffInTech
 
 -----
 
+# HackerRank Solutions
+
+https://www.youtube.com/playlist?list=PLU_sdQYzUj2nKXYskiYlKQIKknqu4H5ti
+
+Last updated on Nov 18, 2021
+
+
+Nick White
+
+-----
